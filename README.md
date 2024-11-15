@@ -1,5 +1,7 @@
 # Modern Portfolio Landing Page - HTML & CSS Tutorial
 
+![alt text](https://github.com/onepiece-coding/Modern-Portfolio-Landing-Page---HTML-CSS-Tutorial/blob/main/images/demo-as-screenshot.png)
+
 Welcome to the **Modern Portfolio Landing Page** project! This repository contains the source code for a responsive portfolio landing page built with HTML, CSS, and a bit of JavaScript for responsive navigation. The project follows a mobile-first approach, ensuring a smooth and optimized experience on all devices.
 
 ## 🚀 Demo
@@ -32,7 +34,13 @@ Want to learn how to build this project step-by-step? Watch the full tutorial on
 
 ## 📁 File Structure
 
-. ├── index.html # Main HTML file ├── styles.css # Main CSS file ├── scripts.js # JavaScript file for navbar └── images/ # Folder for images
+- ├── index.html # Main HTML file 
+
+- ├── styles.css # Main CSS file 
+
+- ├── scripts.js # JavaScript file for navbar 
+
+- └── images/ # Folder for images
 
 
 ## 🚀 Getting Started
