@@ -10,7 +10,7 @@ Check out the live demo here: [Portfolio Landing Page Demo](https://modern-portf
 
 ## 📹 Video Tutorial
 
-Want to learn how to build this project step-by-step? Watch the full tutorial on YouTube: [Video Tutorial Link](URL_TO_VIDEO)
+Want to learn how to build this project step-by-step? Watch the full tutorial on YouTube: [Video Tutorial Link](https://www.youtube.com/watch?v=lXFitqJtqh8&list=PLYSj6xbWtkzmFs0wTA9EryLVGzhPp7CA-&index=10)
 
 ## ✨ Features
 
